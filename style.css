@@ -87,7 +87,7 @@
     #buyitnow{
         height: 20%;
         position: absolute;
-        bottom: 75px;
+        bottom: 125px;
     }
     #showcase h2 {
         padding: 1rem;
@@ -95,12 +95,13 @@
     #social {
         bottom: 55px;
         width: 200px;
-        height: 45px;
+        height: 90px;
     }
     #social a img {
         height: 45px;
     }
    model-viewer{
+      top: 200px;
     width: 350px;  
     height: 350px;  
    }
