@@ -99,6 +99,10 @@
     #social a img {
         height: 45px;
     }
+   model-viewer{
+    width: 350px;  
+    height: 350px;  
+   }
 }
 
 
