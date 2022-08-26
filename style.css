@@ -87,12 +87,13 @@
     #buyitnow{
         height: 20%;
         position: absolute;
-        bottom: 35px;
+        bottom: 75px;
     }
     #showcase h2 {
         padding: 1rem;
     }
     #social {
+        bottom: 55px;
         width: 200px;
         height: 45px;
     }
