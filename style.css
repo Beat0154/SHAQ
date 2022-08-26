@@ -88,6 +88,7 @@
         height: 20%;
         position: absolute;
         bottom: 22vh;
+       z-index: 101;
     }
     #showcase h2 {
         padding: 1rem;
